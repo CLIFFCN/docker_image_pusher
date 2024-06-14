@@ -1,4 +1,14 @@
 nginx
+tomcat
+amir20/dozzle
+prom/node-exporter
+grafana/grafana
+portainer/portainer-ce
+portainer/agent
+chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
+mysql:5.7.36
+google/cadvisor
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest

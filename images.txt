@@ -5,7 +5,7 @@ prom/node-exporter
 grafana/grafana
 portainer/portainer-ce
 portainer/agent
-chenshengshi/finebi6.0-tomcat":9.0.73-jdk8
+chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
 mysql:5.7.36
 google/cadvisor
 redis

@@ -10,6 +10,7 @@ mysql:5.7.36
 google/cadvisor
 redis
 fauria/vsftpd
+jumpserver/jms_all
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

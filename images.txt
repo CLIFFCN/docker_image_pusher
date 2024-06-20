@@ -9,7 +9,6 @@ chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
 mysql:5.7.36
 google/cadvisor
 redis
-fauria/vsftpd
 jumpserver/jms_all
 
 #支持私库

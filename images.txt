@@ -9,7 +9,7 @@ chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
 mysql:5.7.36
 google/cadvisor
 redis
-jumpserver/jms_all:v3.10.11
+jumpserver/jms_all
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

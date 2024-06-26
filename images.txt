@@ -2,7 +2,7 @@ nginx
 tomcat
 amir20/dozzle
 prom/node-exporter
-grafana/grafana
+grafana/grafana:9.5.20
 portainer/portainer-ce
 portainer/agent
 chenshengshi/finebi6.0-tomcat:9.0.73-jdk8

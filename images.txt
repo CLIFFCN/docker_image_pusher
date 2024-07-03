@@ -1,4 +1,4 @@
-#nginx
+nginx:1.27
 #tomcat
 #amir20/dozzle
 #prom/node-exporter

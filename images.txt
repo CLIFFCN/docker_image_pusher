@@ -1,6 +1,6 @@
 #nginx:1.27
-tomcat:9.0.90-jre8
-#amir20/dozzle
+#tomcat:9.0.90-jre8
+amir20/dozzle:v7.0.7
 #prom/node-exporter
 #grafana/grafana:9.5.20
 #portainer/portainer-ce:2.20.3
@@ -8,8 +8,8 @@ tomcat:9.0.90-jre8
 #chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
 #mysql:5.7.36
 #google/cadvisor
-#redis
-#jumpserver/jms_all
+redis:7.2.5
+jumpserver/jms_all:v4.0.0
 #prom/prometheus
 
 #支持私库

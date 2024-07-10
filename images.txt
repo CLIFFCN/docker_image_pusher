@@ -1,18 +1,17 @@
 #nginx:1.27
 #tomcat:9.0.90-jre8
-
-amir20/dozzle:v8.0.1
-#prom/node-exporter
-#grafana/grafana:9.5.20
+#amir20/dozzle:v8.0.1
+prom/node-exporter:v1.8.1
+grafana/grafana:11.1.0
 #portainer/portainer-ce:2.20.3
 #portainer/agent
 #chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
 #mysql:5.7.36
 #google/cadvisor
-gcr.io/cadvisor/cadvisor
+#gcr.io/cadvisor/cadvisor
 #redis:7.2.5
 #jumpserver/jms_all:v4.0.0
-#prom/prometheus
+prom/prometheus:v2.53.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

@@ -1,7 +1,8 @@
 #nginx:1.27
 #tomcat:9.0.90-jre8
-amir20/dozzle:v8.0.5
-#prom/node-exporter:v1.8.1
+#amir20/dozzle:v8.0.5
+prom/node-exporter:v1.8.2
+bitnami/mysqld-exporter:0.15.1
 #grafana/grafana:11.1.0
 #portainer/portainer-ce:2.20.3
 #portainer/agent

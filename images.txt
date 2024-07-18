@@ -5,7 +5,7 @@
 #bitnami/mysqld-exporter:0.15.1
 #grafana/grafana:11.1.0
 #portainer/portainer-ce:2.20.3
-portainer/agent:2.20.3
+#portainer/agent:2.20.3
 #chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
 chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
 #mysql:5.7.36

@@ -7,12 +7,13 @@
 #portainer/portainer-ce:2.20.3
 #portainer/agent:2.20.3
 #chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
-chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
+#chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
 #mysql:5.7.36
 #google/cadvisor
 #gcr.io/cadvisor/cadvisor
 #redis:7.2.5
-jumpserver/jms_all:v4.0.1
+#jumpserver/jms_all:v4.0.1
+jumpserver/jms_all:v3.10.12
 #prom/prometheus:v2.53.0
 
 #支持私库

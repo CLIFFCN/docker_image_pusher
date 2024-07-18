@@ -12,7 +12,7 @@ chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
 #google/cadvisor
 #gcr.io/cadvisor/cadvisor
 #redis:7.2.5
-#jumpserver/jms_all:v4.0.0
+jumpserver/jms_all:v4.0.1
 #prom/prometheus:v2.53.0
 
 #支持私库

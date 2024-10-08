@@ -10,8 +10,9 @@
 #amir20/dozzle:v8.3.0
 #portainer/portainer-ce:2.21.0
 #grafana/grafana:11.1.0
-jumpserver/jms_all:v4.2.0
+
 #jumpserver/jms_all:v3.10.12
+#jumpserver/jms_all:v4.2.0
 
 #prom/prometheus:v2.53.0
 #prom/node-exporter:v1.8.2

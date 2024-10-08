@@ -2,11 +2,13 @@
 #tomcat:9.0.90-jre8
 #mysql:5.7.36
 #redis:7.2.5
+
 #chenshengshi/finebi6.0-tomcat:9.0.73-jdk8
 #chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
+aspnmy/stonedt_yuqing:1.0.7
 
-amir20/dozzle:v8.3.0
-portainer/portainer-ce:2.21.0
+#amir20/dozzle:v8.3.0
+#portainer/portainer-ce:2.21.0
 #grafana/grafana:11.1.0
 #jumpserver/jms_all:v4.0.2
 #jumpserver/jms_all:v3.10.12

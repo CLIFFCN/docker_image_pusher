@@ -20,6 +20,7 @@
 #portainer/agent:2.20.3
 #google/cadvisor
 #gcr.io/cadvisor/cadvisor
+jasonrivers/nagios:4.5.2
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

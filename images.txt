@@ -1,5 +1,5 @@
 #nginx:1.27
-uozi/nginx-ui:v2.0.0-beta.36
+#uozi/nginx-ui:v2.0.0-beta.36
 #tomcat:9.0.90-jre8
 #mysql:5.7.36
 #redis:7.2.5
@@ -14,6 +14,7 @@ uozi/nginx-ui:v2.0.0-beta.36
 
 #jumpserver/jms_all:v3.10.12
 #jumpserver/jms_all:v4.2.0
+jumpserver/jms_all:v4.4.1
 
 #prom/prometheus:v2.53.0
 #prom/node-exporter:v1.8.2

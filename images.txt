@@ -1,3 +1,6 @@
+##K8S
+coredns/coredns:1.8.4
+
 #nginx:1.27
 #uozi/nginx-ui:v2.0.0-beta.36
 #tomcat:9.0.90-jre8

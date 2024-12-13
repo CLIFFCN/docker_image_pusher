@@ -1,5 +1,7 @@
 ##K8S
-coredns/coredns:1.8.4
+#coredns/coredns:1.8.4
+flannel/flannel-cni-plugin:v1.6.0-flannel1
+flannel/flannel:flannel/flannel
 
 #nginx:1.27
 #uozi/nginx-ui:v2.0.0-beta.36

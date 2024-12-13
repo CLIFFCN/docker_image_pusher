@@ -2,8 +2,9 @@
 #coredns/coredns:1.8.4
 #flannel/flannel-cni-plugin:v1.6.0-flannel1
 #flannel/flannel:v0.26.2
-eipwork/etcd-host:3.4.16-2
-eipwork/kuboard:v3
+#eipwork/etcd-host:3.4.16-2
+#eipwork/kuboard:v3
+eipwork/kuboard-agent：v3
 
 #nginx:1.27
 #uozi/nginx-ui:v2.0.0-beta.36

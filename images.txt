@@ -1,10 +1,17 @@
+##SRS rtmp/flv
+ossrs/srs:v6.0.155
+
+##GPU
+nvidia/cuda:12.6.3-cudnn-devel-ubi8
+tensorflow/tensorflow:latest-gpu
+
 ##K8S
 #coredns/coredns:1.8.4
 #flannel/flannel-cni-plugin:v1.6.0-flannel1
 #flannel/flannel:v0.26.2
 #eipwork/etcd-host:3.4.16-2
 #eipwork/kuboard:v3
-eipwork/kuboard-agent:v3
+#eipwork/kuboard-agent:v3
 #elasticsearch:7.12.1
 #kibana:7.12.1
 
@@ -18,7 +25,7 @@ eipwork/kuboard-agent:v3
 #chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
 #aspnmy/stonedt_yuqing:1.0.7
 
-amir20/dozzle:v8.8.3
+#amir20/dozzle:v8.8.3
 #portainer/portainer-ce:2.21.0
 #grafana/grafana:11.1.0
 

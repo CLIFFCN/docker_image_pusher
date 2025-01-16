@@ -2,8 +2,8 @@
 #ossrs/srs:v6.0.155
 
 ##GPU
-nvidia/cuda:12.6.3-cudnn-devel-ubi8
-tensorflow/tensorflow:latest-gpu
+#nvidia/cuda:12.6.3-cudnn-devel-ubi8
+#tensorflow/tensorflow:latest-gpu
 
 ##K8S
 #coredns/coredns:1.8.4

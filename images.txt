@@ -1,5 +1,5 @@
 ##SRS rtmp/flv
-ossrs/srs:v6.0.155
+#ossrs/srs:v6.0.155
 
 ##GPU
 nvidia/cuda:12.6.3-cudnn-devel-ubi8
@@ -10,7 +10,7 @@ tensorflow/tensorflow:latest-gpu
 #flannel/flannel-cni-plugin:v1.6.0-flannel1
 #flannel/flannel:v0.26.2
 #eipwork/etcd-host:3.4.16-2
-#eipwork/kuboard:v3
+eipwork/kuboard:v4
 #eipwork/kuboard-agent:v3
 #elasticsearch:7.12.1
 #kibana:7.12.1

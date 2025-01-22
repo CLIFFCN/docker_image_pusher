@@ -10,7 +10,7 @@
 #flannel/flannel-cni-plugin:v1.6.0-flannel1
 #flannel/flannel:v0.26.2
 #eipwork/etcd-host:3.4.16-2
-eipwork/kuboard:v4
+#eipwork/kuboard:v4
 #eipwork/kuboard-agent:v3
 #elasticsearch:7.12.1
 #kibana:7.12.1
@@ -37,7 +37,7 @@ eipwork/kuboard:v4
 #prom/node-exporter:v1.8.2
 #bitnami/mysqld-exporter:0.15.1
 #portainer/agent:2.20.3
-#google/cadvisor
+google/cadvisor:v0.51
 #gcr.io/cadvisor/cadvisor
 #jasonrivers/nagios:4.5.2
 

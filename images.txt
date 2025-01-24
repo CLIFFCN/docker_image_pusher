@@ -25,9 +25,9 @@
 #chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
 #aspnmy/stonedt_yuqing:1.0.7
 
-#amir20/dozzle:v8.8.3
+#amir20/dozzle:v8
 #portainer/agent:2.21.5
-portainer/portainer-ce:2.26.1
+#portainer/portainer-ce:2.26.0
 #grafana/grafana:11.1.0
 
 #jumpserver/jms_all:v3.10.12

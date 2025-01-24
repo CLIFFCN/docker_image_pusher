@@ -25,14 +25,14 @@
 #chenshengshi/finebi6.0-tomcat:8.5.72-jdk8
 #aspnmy/stonedt_yuqing:1.0.7
 
-#amir20/dozzle:v8
+amir20/dozzle:v8
 #portainer/agent:2.21.5
 #portainer/portainer-ce:2.26.0
 #grafana/grafana:11.1.0
 
 #jumpserver/jms_all:v3.10.12
 #jumpserver/jms_all:v4.2.0
-#jumpserver/jms_all:v4.4.1
+jumpserver/jms_all:v4.6.0
 
 #prom/prometheus:v2.53.0
 #prom/node-exporter:v1.8.2

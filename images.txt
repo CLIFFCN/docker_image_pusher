@@ -27,7 +27,7 @@
 
 #amir20/dozzle:v8.8.3
 #portainer/agent:2.21.5
-portainer/portainer-ce:2.26.0
+portainer/portainer-ce:2.26.1
 #grafana/grafana:11.1.0
 
 #jumpserver/jms_all:v3.10.12

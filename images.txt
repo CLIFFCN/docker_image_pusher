@@ -32,7 +32,7 @@
 
 #jumpserver/jms_all:v3.10.12
 #jumpserver/jms_all:v4.2.0
-#jumpserver/jms_all:v4.6.0
+jumpserver/jms_all:v4.7.0
 
 #prom/prometheus:v2.53.0
 #prom/node-exporter:v1.8.2

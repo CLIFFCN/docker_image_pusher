@@ -29,7 +29,8 @@
 #portainer/agent:2.21.5
 #portainer/portainer-ce:2.26.0
 #grafana/grafana:11.1.0
-jasonrivers/nagios：4.5.7
+jasonrivers/nagios:4.5.7
+
 
 #jumpserver/jms_all:v3.10.12
 #jumpserver/jms_all:v4.2.0
